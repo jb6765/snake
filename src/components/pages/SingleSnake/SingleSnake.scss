@@ -1,0 +1,37 @@
+@import '../../../styles/variables';
+
+.SingleSnake {
+  display: block;
+
+  .singleSnakeImage {
+    width: 100%;
+    border-radius: 3em;
+    border: 4px solid $slate;
+    margin: 5px;
+  }
+
+  p {
+    font-size: large;
+  }
+  .venom {
+    color: red;
+    font-size: larger;
+  }
+
+  .non-venom {
+    color: green;
+    font-size: larger;
+  }
+
+  .snakeInfo, .additionalInfo {
+    background-color: lightgray;
+    border-radius: 10px;
+    border: 3px, solid, $slate;
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+  a:link, a:visited, a:hover, a:active {
+    color: $slate;
+  }
+}

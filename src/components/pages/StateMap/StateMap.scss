@@ -1,0 +1,18 @@
+.StateMap {
+  display: block;
+
+}
+
+
+path {
+  pointer-events: all;
+}
+
+path:hover {
+  fill: rgb(255, 72, 0);
+  cursor: pointer;
+}
+
+.WI, .IL, .KY, .TN, .AL {
+  fill: lightgreen;
+}

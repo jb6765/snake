@@ -1,0 +1,8 @@
+{
+  "states" : "state",
+  "stateSnakes": "stateSnakes",
+  "userProfiles": "users",
+  "sightings": "sightings",
+  "comments": "comments",
+  "snakelings": "snakelings"
+}

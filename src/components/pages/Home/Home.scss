@@ -1,0 +1,10 @@
+@import '../../../styles/variables';
+
+.Home {
+  display: block;
+
+  #homePic {
+    border-radius: 50%;
+    border: 5px solid $slate;
+  }
+}

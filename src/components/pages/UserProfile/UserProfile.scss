@@ -1,0 +1,36 @@
+.UserProfile {
+  display: block;
+
+
+  #profileContainer {
+    display: flex;
+    justify-content: center;
+    .userProfileCard {
+      margin: 2em;
+      text-align: left;
+      background-color: lightgray;
+      max-width: 75%;
+  
+      .card-body {
+        margin-top: 25%;
+      }
+    }
+  
+    #profileData {
+      margin: 20px;
+    }
+  
+    img {
+      border-radius: 15em;
+      border: 2px solid black;
+    }
+  }
+  
+  .profileEdit {
+    text-align: center;
+  }
+
+  .sightingButtons {
+    margin-top: 50px;
+  }
+}

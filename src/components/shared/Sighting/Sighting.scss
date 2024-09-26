@@ -1,0 +1,26 @@
+.Sighting {
+  display: block;
+
+  .card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+    background-color: lightgray;
+  }
+
+  .reportedSnakeCard {
+    height: 100%;
+    width: 100%;
+  }
+
+  .reportedImage {
+    height: 200px;
+    width: 250px;
+    object-fit: cover;
+
+  }
+
+  .reportCard {
+    width: 400px;
+    background-color: lightgray;
+  }
+}

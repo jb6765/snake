@@ -1,0 +1,11 @@
+@import '../../../styles/variables';
+
+.Snake {
+  display: block;
+  .snakeImage {
+    border-radius: 2em;
+    border: 2px solid $slate;
+    margin-bottom: 5px;
+    box-shadow: 5px 5px 10px $darkGray;
+  }
+}

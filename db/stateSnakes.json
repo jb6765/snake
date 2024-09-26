@@ -1,0 +1,330 @@
+{
+  "stateSnake1": {
+    "stateId": "WI",
+    "snakeId": "snake1" 
+  },
+  "stateSnake2": {
+    "stateId": "AL",
+    "snakeId": "snake1" 
+  },
+    "stateSnake3": {
+    "stateId": "TN",
+    "snakeId": "snake1" 
+  },
+    "stateSnake4": {
+    "stateId": "KY",
+    "snakeId": "snake1" 
+  },
+    "stateSnake5": {
+    "stateId": "IL",
+    "snakeId": "snake1" 
+  },
+  "stateSnake6": {
+    "stateId": "AL",
+    "snakeId": "snake2" 
+  },
+  "stateSnake7": {
+    "stateId": "AL",
+    "snakeId": "snake3" 
+  },
+  "stateSnake8": {
+    "stateId": "AL",
+    "snakeId": "snake4" 
+  },
+  "stateSnake9": {
+    "stateId": "KY",
+    "snakeId": "snake5" 
+  },
+  "stateSnake10": {
+    "stateId": "AL",
+    "snakeId": "snake6" 
+  },
+  "stateSnake11": {
+    "stateId": "AL",
+    "snakeId": "snake7" 
+  },
+  "stateSnake12": {
+    "stateId": "WI",
+    "snakeId": "snake8" 
+  },
+  "stateSnake13": {
+    "stateId": "TN",
+    "snakeId": "snake9" 
+  },
+  "stateSnake14": {
+    "stateId": "TN",
+    "snakeId": "snake10" 
+  },
+  "stateSnake15": {
+    "stateId": "WI",
+    "snakeId": "snake10" 
+  },
+    "stateSnake16": {
+    "stateId": "KY",
+    "snakeId": "snake10" 
+  },
+  "stateSnake17": {
+    "stateId": "IL",
+    "snakeId": "snake10" 
+  },
+  "stateSnake18": {
+    "stateId": "TN",
+    "snakeId": "snake37" 
+  },
+  "stateSnake19": {
+    "stateId": "WI",
+    "snakeId": "snake12" 
+  },
+  "stateSnake20": {
+    "stateId": "TN",
+    "snakeId": "snake13" 
+  },
+  "stateSnake21": {
+    "stateId": "AL",
+    "snakeId": "snake13" 
+  },
+  "stateSnake22": {
+    "stateId": "IL",
+    "snakeId": "snake13" 
+  },
+  "stateSnake23": {
+    "stateId": "KY",
+    "snakeId": "snake13" 
+  },
+  "stateSnake24": {
+    "stateId": "TN",
+    "snakeId": "snake14" 
+  },
+  "stateSnake25": {
+    "stateId": "AL",
+    "snakeId": "snake14" 
+  },
+  "stateSnake26": {
+    "stateId": "IL",
+    "snakeId": "snake14" 
+  },
+  "stateSnake27": {
+    "stateId": "KY",
+    "snakeId": "snake14" 
+  },
+  "stateSnake28": {
+    "stateId": "TN",
+    "snakeId": "snake15" 
+  },
+  "stateSnake29": {
+    "stateId": "KY",
+    "snakeId": "snake15" 
+  },
+  "stateSnake30": {
+    "stateId": "IL",
+    "snakeId": "snake15" 
+  },
+  "stateSnake31": {
+    "stateId": "WI",
+    "snakeId": "snake15" 
+  },
+  "stateSnake32": {
+    "stateId": "TN",
+    "snakeId": "snake16" 
+  },
+  "stateSnake33": {
+    "stateId": "AL",
+    "snakeId": "snake16" 
+  },
+  "stateSnake34": {
+    "stateId": "IL",
+    "snakeId": "snake16" 
+  },
+  "stateSnake35": {
+    "stateId": "KY",
+    "snakeId": "snake16" 
+  },
+  "stateSnake36": {
+    "stateId": "KY",
+    "snakeId": "snake17" 
+  },
+  "stateSnake37": {
+    "stateId": "IL",
+    "snakeId": "snake17" 
+  },
+  "stateSnake38": {
+    "stateId": "AL",
+    "snakeId": "snake18" 
+  },
+  "stateSnake39": {
+    "stateId": "KY",
+    "snakeId": "snake18" 
+  },
+  "stateSnake40": {
+    "stateId": "AL",
+    "snakeId": "snake19" 
+  },
+  "stateSnake41": {
+    "stateId": "AL",
+    "snakeId": "snake20" 
+  },
+  "stateSnake42": {
+    "stateId": "IL",
+    "snakeId": "snake21" 
+  },
+  "stateSnake43": {
+    "stateId": "AL",
+    "snakeId": "snake22" 
+  },
+  "stateSnake44": {
+    "stateId": "KY",
+    "snakeId": "snake23" 
+  },
+  "stateSnake45": {
+    "stateId": "WI",
+    "snakeId": "snake23" 
+  },
+  "stateSnake46": {
+    "stateId": "IL",
+    "snakeId": "snake23" 
+  },
+  "stateSnake47": {
+    "stateId": "TN",
+    "snakeId": "snake23" 
+  },
+  "stateSnake48": {
+    "stateId": "AL",
+    "snakeId": "snake23" 
+  },
+  "stateSnake49": {
+    "stateId": "AL",
+    "snakeId": "snake24" 
+  },
+  "stateSnake50": {
+    "stateId": "IL",
+    "snakeId": "snake25" 
+  },
+  "stateSnake51": {
+    "stateId": "WI",
+    "snakeId": "snake25" 
+  },
+  "stateSnake52": {
+    "stateId": "AL",
+    "snakeId": "snake26" 
+  },
+  "stateSnake53": {
+    "stateId": "KY",
+    "snakeId": "snake26" 
+  },
+  "stateSnake54": {
+    "stateId": "AL",
+    "snakeId": "snake27" 
+  },
+  "stateSnake55": {
+    "stateId": "WI",
+    "snakeId": "snake27" 
+  },
+  "stateSnake56": {
+    "stateId": "IL",
+    "snakeId": "snake27" 
+  },
+  "stateSnake57": {
+    "stateId": "KY",
+    "snakeId": "snake27" 
+  },
+  "stateSnake58": {
+    "stateId": "TN",
+    "snakeId": "snake27" 
+  },  
+  "stateSnake59": {
+    "stateId": "AL",
+    "snakeId": "snake28" 
+  },
+  "stateSnake60": {
+    "stateId": "TN",
+    "snakeId": "snake29" 
+  },
+  "stateSnake61": {
+    "stateId": "IL",
+    "snakeId": "snake30" 
+  },
+  "stateSnake62": {
+    "stateId": "AL",
+    "snakeId": "snake31" 
+  },
+  "stateSnake63": {
+    "stateId": "AL",
+    "snakeId": "snake32" 
+  },
+  "stateSnake64": {
+    "stateId": "AL",
+    "snakeId": "snake33" 
+  },
+  "stateSnake65": {
+    "stateId": "WI",
+    "snakeId": "snake34" 
+  },
+  "stateSnake66": {
+    "stateId": "IL",
+    "snakeId": "snake34" 
+  },
+  "stateSnake67": {
+    "stateId": "IL",
+    "snakeId": "snake35" 
+  },
+  "stateSnake68": {
+    "stateId": "WI",
+    "snakeId": "snake36" 
+  },
+  "stateSnake69": {
+    "stateId": "IL",
+    "snakeId": "snake36" 
+  },
+  "stateSnake70": {
+    "stateId": "KY",
+    "snakeId": "snake36" 
+  },
+  "stateSnake71": {
+    "stateId": "TN",
+    "snakeId": "snake36" 
+  },
+  "stateSnake72": {
+    "stateId": "AL",
+    "snakeId": "snake36" 
+  },
+  "stateSnake73": {
+    "stateId": "AL",
+    "snakeId": "snake37" 
+  },
+  "stateSnake74": {
+    "stateId": "KY",
+    "snakeId": "snake38" 
+  },
+  "stateSnake75": {
+    "stateId": "IL",
+    "snakeId": "snake38" 
+  },
+  "stateSnake76": {
+    "stateId": "WI",
+    "snakeId": "snake39" 
+  },
+  "stateSnake77": {
+    "stateId": "IL",
+    "snakeId": "snake39" 
+  },
+  "stateSnake78": {
+    "stateId": "AL",
+    "snakeId": "snake40" 
+  },
+  "stateSnake79": {
+    "stateId": "WI",
+    "snakeId": "snake41" 
+  },
+  "stateSnake80": {
+    "stateId": "IL",
+    "snakeId": "snake41" 
+  },
+  "stateSnake81": {
+    "stateId": "TN",
+    "snakeId": "snake41" 
+  },
+  "stateSnake82": {
+    "stateId": "AL",
+    "snakeId": "snake41" 
+  }
+}
